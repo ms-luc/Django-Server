@@ -1,2 +1,0 @@
-user: misha
-password: cps840class
