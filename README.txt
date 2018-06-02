@@ -1,3 +1,4 @@
+#DJANGO SERVER
 to start:
 	python manage.py runserver
 
